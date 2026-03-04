@@ -10,7 +10,7 @@
 
 ### About Me
 
-I am a 3rd-year Computer Science and Software Engineering undergraduate, actively preparing for a Software Engineering or Web Development internship. I focus on applying strong engineering fundamentals through hands-on development and have gained practical experience across frontend, backend, and full-stack systems. My work has strengthened my skills in object-oriented programming, RESTful design, CRUD operations, and version control with Git and GitHub, while providing insight into how real-world software systems are structured, implemented, and refined. I am eager to contribute to meaningful development projects, gain industry exposure, and continue enhancing my expertise in software engineering and modern web development.
+I am a 3rd-year Computer Science and Software Engineering undergraduate currently working as a Software Engineer Intern, actively contributing to real-world systems and production-level codebases while strengthening my engineering foundations. My experience spans frontend, backend, and full-stack development, where I design and implement RESTful APIs, manage databases, build responsive user interfaces, and apply object-oriented programming principles to create maintainable and scalable solutions. Through academic and independent projects, I have developed a strong understanding of system architecture, clean code practices, version control with Git, and collaborative development workflows. As I continue to grow in the industry, I am focused on deepening my knowledge of scalable system design, clean architecture, and performance-oriented development, with a long-term commitment to mastering modern software engineering and building reliable, efficient, and impactful software systems.
 
 ---
 

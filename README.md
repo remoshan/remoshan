@@ -3,14 +3,18 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=444444&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEERING+INTERN;COMPUTER+SCIENCE+UNDERGRADUATE;FULL-STACK+DEVELOPER">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=444444&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEER;SOFTWARE+ENGINEERING+GRADUATE;FULL-STACK+DEVELOPER">
 </div>
 
 ---
 
 ### About Me
 
-I am a 3rd-year Computer Science and Software Engineering undergraduate currently working as a Software Engineer Intern, actively contributing to real-world systems and production-level codebases while strengthening my engineering foundations. My experience spans frontend, backend, and full-stack development, where I design and implement RESTful APIs, manage databases, build responsive user interfaces, and apply object-oriented programming principles to create maintainable and scalable solutions. Through academic and independent projects, I have developed a strong understanding of system architecture, clean code practices, version control with Git, and collaborative development workflows. As I continue to grow in the industry, I am focused on deepening my knowledge of scalable system design, clean architecture, and performance-oriented development, with a long-term commitment to mastering modern software engineering and building reliable, efficient, and impactful software systems.
+I am a Software Engineer with professional experience contributing to real-world systems and production-level codebases through my internship experience. My development experience spans frontend, backend, and full-stack development, with a focus on designing and implementing RESTful APIs, working with databases, building responsive user interfaces, and applying object-oriented programming principles to develop maintainable and scalable solutions.
+
+Through professional, academic, and independent projects, I have developed a strong foundation in software engineering, including system architecture, clean code practices, version control with Git, and collaborative development workflows. I enjoy understanding systems as a whole and building software that is reliable, efficient, and maintainable.
+
+I am particularly interested in scalable system design, clean architecture, backend development, and performance-oriented engineering, and I am continuously working to deepen my technical expertise and grow as a Software Engineer.
 
 ---
 

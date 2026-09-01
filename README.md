@@ -10,11 +10,11 @@
 
 ### About Me
 
-I am a Software Engineer with professional experience contributing to real-world systems and production-level codebases through my internship experience. My development experience spans frontend, backend, and full-stack development, with a focus on designing and implementing RESTful APIs, working with databases, building responsive user interfaces, and applying object-oriented programming principles to develop maintainable and scalable solutions.
+I am a Junior/Associate Software Engineer with professional experience contributing to real-world systems and production-level codebases through my internship experience. My development experience spans frontend, backend, and full-stack development, with a focus on designing and implementing RESTful APIs, working with databases, building responsive user interfaces, and applying object-oriented programming principles to develop maintainable and scalable solutions.
 
 Through professional, academic, and independent projects, I have developed a strong foundation in software engineering, including system architecture, clean code practices, version control with Git, and collaborative development workflows. I enjoy understanding systems as a whole and building software that is reliable, efficient, and maintainable.
 
-I am particularly interested in scalable system design, clean architecture, backend development, and performance-oriented engineering, and I am continuously working to deepen my technical expertise and grow as a Software Engineer.
+I am particularly interested in scalable system design, clean architecture, full-stack development, and performance-oriented engineering, and I am continuously working to deepen my technical expertise and grow as a Software Engineer.
 
 ---
 
